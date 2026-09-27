@@ -1,10 +1,10 @@
+<p align="center">
+  <img src="https://github.com/getdoover.png?size=160" alt="Doover logo" width="120">
+</p>
+
 # Doover
 
 **Simple automation for the real world.** Doover is an app platform for field and industrial automation. We help teams connect equipment, monitor and control it remotely, and turn operational data into useful dashboards and alerts.
-
-## Who we are
-
-We're the team behind Doover. We build tools that make connected equipment easier to develop, deploy, operate, and offer to customers. Our platform works with hardware you choose and can sit alongside existing PLCs, SCADA, and telemetry systems.
 
 ## What we do
 
@@ -13,7 +13,7 @@ We're the team behind Doover. We build tools that make connected equipment easie
 - **Make data useful:** Create dashboards, trends, and alerts that help teams act on what's happening in the field.
 - **Support connected products:** Manage devices and users, and offer customers a branded experience.
 
-Doover is used across applications including irrigation infrastructure, grain handling, and environmental management. See the [case studies](https://doover.com/case-studies/) for examples.
+Integrators use Doover to turn existing equipment and new hardware into connected services for their customers across a wide range of industries. See the [case studies](https://doover.com/case-studies/) for examples.
 
 ## This GitHub organisation
 
